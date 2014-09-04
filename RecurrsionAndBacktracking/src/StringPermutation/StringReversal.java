@@ -1,4 +1,4 @@
-package String;
+package StringPermutation;
 
 public class StringReversal {
 
