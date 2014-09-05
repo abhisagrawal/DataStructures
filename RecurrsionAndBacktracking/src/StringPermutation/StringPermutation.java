@@ -1,5 +1,6 @@
 package StringPermutation;
 
+
 public class StringPermutation {
 	String in;
 	StringBuilder out = new StringBuilder();
